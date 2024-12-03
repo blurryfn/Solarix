@@ -1,7 +1,7 @@
 # Solarix
 Solarix is a fortnite backend made in elixir 
 
-![image](https://images-ext-1.discordapp.net/external/mbKLdV1HCQN6Qkeh0kEdzQdsE6-dCFkkp7UOvvwPjSE/https/cdn2.unrealengine.com/Fortnite%252Fblog%252Fwinterfest-2019-begins%252F11BR_WinterFest_Social_Cabin_Exterior_News_Featured-1920x1080-73fdaddc4159bda470b131bf5d09d903da26624b.jpg?format=webp&width=1193&height=671))
+![image](https://cdn2.unrealengine.com/18br-sunrise-blog-1900x600-1900x600-dd64f6c4dd7b.jpg)
 
 
 #Features
